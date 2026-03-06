@@ -132,6 +132,11 @@ The model predicts the estimated sale price of a house based on user input featu
 
 ---
 
+## Live App
+
+Streamlit Deployment:
+https://tanviganji18-house-price-prediction-regression-app-bsdxiw.streamlit.app/
+
 ## Author
 
 Tanvi Ganji
